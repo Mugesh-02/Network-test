@@ -68,4 +68,4 @@ if uploaded_file is not None:
     
     st.subheader("Thanks for visit.")
 
-    st.balloons()
+    st.snow()
